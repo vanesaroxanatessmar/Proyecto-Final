@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*---base----*/
+@import './base/mapas';
+@import './base/mixin';
+@import './base/variables';
+@import './base/fonts';
+@import './base/colores';
+
+/*----componentes----*/
+@import './componentes/cuerpo';
+@import './componentes/header';
+
+
+
+
+

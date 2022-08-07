@@ -1,0 +1,10 @@
+$color-body:rgb(230, 180, 203);
+$color-card: rgb(202, 131, 172);
+
+.body {
+    background: darken($color-body, 40%);
+}
+
+.card .back {
+    background: darken($color-card, 10%);
+}
